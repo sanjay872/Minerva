@@ -19,9 +19,18 @@ Bootstrap: 5.3.3
 
 ## Run Commands
 ```
-npm run dev
-    or
-  yarn dev
+For Smart Contract,
+1) Open the minervacontract folder in command prompt.
+2) Run npx hardhat node.
+3) Open a new terminal for the same path and run npx hardhat ignition deploy ./ignition/modules/deploy.js --network localhost to deploy the smartcontract in blockchain.
+4) Open ignition/deployment/chain-1337/ in this path, get the address of deployed contract and replace it in the contractAddress.js file of front end project.
+5) Open artfacts folder and get the abi, then paste it in the abi.js file of front end project.
+
+For front end,
+1) Open the minervaclient folder in command prompt.
+2) Run yarn dev.
+3) On browser, open http://localhost:3000.
+
 HTML
 Open html, css, bootstrap code with Live Server or show preview of it
 Both are available as extensions in VS Code
