@@ -31,9 +31,6 @@ For front end,
 2) Run yarn dev.
 3) On browser, open http://localhost:3000.
 
-HTML
-Open html, css, bootstrap code with Live Server or show preview of it
-Both are available as extensions in VS Code
 ```
 # demo
 <a href="https://www.loom.com/embed/9b84dad7e9d84bfcaa89f26a8ab06c27?sid=eee1f5a3-a030-47ab-82a1-6a29bc7e9c2c" target="_blank">Click to Watch the Demo</a>
