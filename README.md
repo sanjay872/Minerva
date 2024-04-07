@@ -7,17 +7,21 @@ Teachers will provide the courses at a lower price for a competitive edge and th
 # Technology used
 We have built our app using React, Hardhat, IPFS, Node,web3.storage,Moralis and MetaMask technologies.
 Versions:
-  Node: v20.12.0
-  Nextjs: 12.1.5
-  Hardhat: 2.22.2
-  Moralis: 1.4.0
-  web3.storage: 12.5.0
-  Bootstrap: 5.3.3
+Node: v20.12.0
+Nextjs: 12.1.5
+Hardhat: 2.22.2
+Moralis: 1.4.0
+web3.storage: 12.5.0
+Bootstrap: 5.3.3
 ## Run Commands
+
+
 ```npm run dev
     or
-  yarn dev'''
-'''HTML
+  yarn dev```
+```HTML
 Open html, css, bootstrap code with Live Server or show preview of it
 Both are available as extensions in VS Code```
+
+
    
